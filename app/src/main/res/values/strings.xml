@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ex1_2</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="tvRed">紅色</string>
+    <string name="tvGreen">綠色</string>
+    <string name="tvBlue">藍色</string>
+</resources>
